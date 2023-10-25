@@ -2,27 +2,28 @@
 
 "Jwc is a JavaScript framework for using JSX to write web components on the web."
 
-Enunciado
-Crea una aplicación para buscar películas
+----------------------------------------------------------------------------------------------------------
 
-API a usar: - https://www.omdbapi.com/ Consigue la API Key en la propia página web registrando tu email.
+Create an application to search for movies
 
-Requerimientos:
+API to use: - https://www.omdbapi.com/ Get the API Key on the website itself by registering your email.
 
-✅ Necesita mostrar un input para buscar la película y un botón para buscar.
+Requirements:
 
-✅ Lista las películas y muestra el título, año y poster.
+✅ Need to show an input to search for movie and a button to search.
 
-✅ Que el formulario funcione
+✅ List the movies and show the title, year and poster.
 
-✅ Haz que las películas se muestren en un grid responsive.
+✅ Get the form to work.
 
-✅ Hacer el fetching de datos a la API
+✅ Make the movies display in a responsive grid.
 
-Primera iteración:
+✅ Do the data fetching to the API.
 
-✅ Evitar que se haga la misma búsqueda dos veces seguidas.
+First iteration:
 
-✅ Haz que la búsqueda se haga automáticamente al escribir.
+✅ Prevent the same search from being done twice in a row.
 
-✅ Evita que se haga la búsqueda continuamente al escribir (debounce)
+✅ Have the search done automatically on typing.
+
+✅ Prevent the search from being done continuously on typing (debounce).
