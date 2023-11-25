@@ -1,8 +1,29 @@
-# React + Vite
+# React + Vite,  Using JWC
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+"Jwc is a JavaScript framework for using JSX to write web components on the web."
 
-Currently, two official plugins are available:
+----------------------------------------------------------------------------------------------------------
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Create an application to search for movies
+
+API to use: - https://www.omdbapi.com/ Get the API Key on the website itself by registering your email.
+
+Requirements:
+
+✅ Need to show an input to search for movie and a button to search.
+
+✅ List the movies and show the title, year and poster.
+
+✅ Get the form to work.
+
+✅ Make the movies display in a responsive grid.
+
+✅ Do the data fetching to the API.
+
+First iteration:
+
+✅ Prevent the same search from being done twice in a row.
+
+✅ Have the search done automatically on typing.
+
+✅ Prevent the search from being done continuously on typing (debounce).
